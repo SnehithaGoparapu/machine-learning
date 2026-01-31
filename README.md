@@ -65,6 +65,7 @@ python -m streamlit run app.py / streamlit run app.py
 
 The application will automatically open in a browser at:
 http://localhost:8501
+
 # How to Use the Application
 1. Upload Dataset_csv_01 file using the sidebar
 
